@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Angela Lin</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body { 
+	background-color: #6D72E9; 
+	font-family: serif;
+	}
+	
+h1 {text-align: center;
+	font-family: sans-serif;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	border-bottom: 1px solid ##6D72E9;
+	margin-top: 30 px;}
+p  {color:#FFFFFF;
+	font-size: 20px}
+</style>
+
+<head/>
+
+<body>
+<h1>Angela Lin</h1>
+<img src="pic.jpeg" alt="me" style+"width:100%;">
+<p>I am a business and design major at Northeastern University. I am entering my second year of college. In my free time, I like to take photos, play piano, and paint. I have two dogs names Daisy and Lily.</p>
+<body/>
+
+</html>
